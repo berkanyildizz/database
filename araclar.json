@@ -5,7 +5,7 @@
     "motor": "dizel",
     "yolcukapasitesi": "290",
     "aracsayisi": "132",
-    "gorsel": "test.AKIALF25.png"
+    "gorsel": "https://raw.githubusercontent.com/berkanyildizz/database/main/AKIALF25.png"
   },
   {
     "marka": "BMC",
@@ -13,7 +13,7 @@
     "motor": "dizel",
     "yolcukapasitesi": "belirtilmemis",
     "aracsayisi": "48",
-    "gorsel": "test.BMCProcity.png"
+    "gorsel": "https://raw.githubusercontent.com/berkanyildizz/database/main/BMCProcity.png"
   },
   {
     "marka": "BMC",
@@ -21,134 +21,9 @@
     "motor": "dizel",
     "yolcukapasitesi": "belirtilmemis",
     "aracsayisi": "381",
-    "gorsel": "test.BMCProcityTR.png"
-  },
-  {
-    "marka": "Cleanvac",
-    "model": "Emicro",
-    "motor": "elektrik",
-    "yolcukapasitesi": "belirtilmemis",
-    "aracsayisi": "60",
-    "gorsel": "test.CleanvacEmicro.png"
-  },
-  {
-    "marka": "Green Car",
-    "model": "LSV 4 Kabinli",
-    "motor": "elektrik",
-    "yolcukapasitesi": "belirtilmemis",
-    "aracsayisi": "15",
-    "gorsel": "test.GreenCarLSV4Kabinli.png"
-  },
-  {
-    "marka": "Green Car",
-    "model": "S 14 Kabinli",
-    "motor": "elektrik",
-    "yolcukapasitesi": "belirtilmemis",
-    "aracsayisi": "40",
-    "gorsel": "test.GreenCarS14Kabinli.png"
-  },
-  {
-    "marka": "Karsan",
-    "model": "Avancity CNG",
-    "motor": "CNG",
-    "yolcukapasitesi": "belirtilmemis",
-    "aracsayisi": "245",
-    "gorsel": "test.KarsanAvancityCNG.png"
-  },
-  {
-    "marka": "Karsan",
-    "model": "Avancity S Plus",
-    "motor": "CNG",
-    "yolcukapasitesi": "belirtilmemis",
-    "aracsayisi": "308",
-    "gorsel": "test.KarsanAvancitySPlus.png"
-  },
-  {
-    "marka": "Mercedes",
-    "model": "Capacity (Koruklu)",
-    "motor": "dizel",
-    "yolcukapasitesi": "belirtilmemis",
-    "aracsayisi": "249",
-    "gorsel": "test.MercedesCapacityKoruklu.png"
-  },
-  {
-    "marka": "Mercedes",
-    "model": "Citaro 0530 G",
-    "motor": "dizel",
-    "yolcukapasitesi": "belirtilmemis",
-    "aracsayisi": "98",
-    "gorsel": "test.MercedesCitaro0530G.png"
-  },
-  {
-    "marka": "Mercedes",
-    "model": "Citaro 0530",
-    "motor": "dizel",
-    "yolcukapasitesi": "belirtilmemis",
-    "aracsayisi": "373",
-    "gorsel": "test.MercedesCitaro0530.png"
-  },
-  {
-    "marka": "Mercedes",
-    "model": "Conecto G",
-    "motor": "dizel",
-    "yolcukapasitesi": "belirtilmemis",
-    "aracsayisi": "389",
-    "gorsel": "test.MercedesConectoG.png"
-  },
-  {
-    "marka": "Mercedes",
-    "model": "Conecto",
-    "motor": "dizel",
-    "yolcukapasitesi": "belirtilmemis",
-    "aracsayisi": "13",
-    "gorsel": "test.MercedesConecto.png"
-  },
-  {
-    "marka": "Otokar",
-    "model": "Kent 290 LF",
-    "motor": "dizel",
-    "yolcukapasitesi": "belirtilmemis",
-    "aracsayisi": "937",
-    "gorsel": "test.OtokarKent290LF.png"
-  },
-  {
-    "marka": "Otokar",
-    "model": "Kent XL",
-    "motor": "dizel",
-    "yolcukapasitesi": "belirtilmemis",
-    "aracsayisi": "120",
-    "gorsel": "test.OtokarKentXL.png"
-  },
-  {
-    "marka": "Temsa",
-    "model": "Avenue LF CNG",
-    "motor": "CNG",
-    "yolcukapasitesi": "belirtilmemis",
-    "aracsayisi": "107",
-    "gorsel": "test.TemsaAvenueLFCNG.png"
-  },
-  {
-    "marka": "SGMS",
-    "model": "MASTIFF M4",
-    "motor": "dizel",
-    "yolcukapasitesi": "belirtilmemis",
-    "aracsayisi": "60",
-    "gorsel": "test.SGMSMASTIFFM4.png"
-  },
-  {
-    "marka": "Akia",
-    "model": "Ultra LF 12",
-    "motor": "dizel",
-    "yolcukapasitesi": "belirtilmemis",
-    "aracsayisi": "90",
-    "gorsel": "test.AkiaUltraLF12.png"
-  },
-  {
-    "marka": "Karsan",
-    "model": "E-JEST",
-    "motor": "elektrik",
-    "yolcukapasitesi": "belirtilmemis",
-    "aracsayisi": "39",
-    "gorsel": "test.KarsanEJEST.png"
+    "gorsel": "https://raw.githubusercontent.com/berkanyildizz/database/main/BMCProcityTR.png"
   }
 ]
+
+
+
