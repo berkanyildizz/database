@@ -38,5 +38,45 @@
     "hiz": "14 mil",
     "yolcu_kapasitesi": "2100 / 1684",
     "gorsel": "https://raw.githubusercontent.com/berkanyildizz/database/main/MSProfDrAykutBarka.png"
+  },
+  {
+    "gemi_adi": "Sariyer",
+    "yapim_yili": "2010",
+    "yapim_yeri": "Celiktrans Tersanesi / Istanbul",
+    "hiz": "14 mil",
+    "yolcu_kapasitesi": "1800 / 900",
+    "gorsel": "https://raw.githubusercontent.com/berkanyildizz/database/main/Sariyer.png"
+  },
+  {
+    "gemi_adi": "Kadikoy",
+    "yapim_yili": "2009",
+    "yapim_yeri": "Celiktrans Tersanesi / Istanbul",
+    "hiz": "14 mil",
+    "yolcu_kapasitesi": "1800 / 900",
+    "gorsel": "https://raw.githubusercontent.com/berkanyildizz/database/main/Kadikoy.png"
+  },
+  {
+    "gemi_adi": "Fatih",
+    "yapim_yili": "2008",
+    "yapim_yeri": "Celiktrans Tersanesi / Istanbul",
+    "hiz": "14 mil",
+    "yolcu_kapasitesi": "1800 / 900",
+    "gorsel": "https://raw.githubusercontent.com/berkanyildizz/database/main/Fatih.png"
+  },
+  {
+    "gemi_adi": "Beyoglu",
+    "yapim_yili": "2009",
+    "yapim_yeri": "Celiktrans Tersanesi / Istanbul",
+    "hiz": "14 mil",
+    "yolcu_kapasitesi": "1800 / 900",
+    "gorsel": "https://raw.githubusercontent.com/berkanyildizz/database/main/Beyoglu.png"
+  },
+  {
+    "gemi_adi": "Beykoz",
+    "yapim_yili": "2009",
+    "yapim_yeri": "Celiktrans Tersanesi / Istanbul",
+    "hiz": "14 mil",
+    "yolcu_kapasitesi": "1800 / 900",
+    "gorsel": "https://raw.githubusercontent.com/berkanyildizz/database/main/Beykoz.png"
   }
 ]
