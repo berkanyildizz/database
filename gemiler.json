@@ -1,0 +1,42 @@
+[
+  {
+    "gemi_adi": "Bostanci",
+    "yapim_yili": "1974",
+    "yapim_yeri": "Camialti Tersanesi / Istanbul",
+    "hiz": "14 mil",
+    "yolcu_kapasitesi": "2100 / 1797",
+    "gorsel": "https://raw.githubusercontent.com/berkanyildizz/database/main/Bostanci.png"
+  },
+  {
+    "gemi_adi": "Inciburnu",
+    "yapim_yili": "1973",
+    "yapim_yeri": "Camialti Tersanesi / Istanbul",
+    "hiz": "14 mil",
+    "yolcu_kapasitesi": "2100 / 1684",
+    "gorsel": "https://raw.githubusercontent.com/berkanyildizz/database/main/MSBarisManco.png"
+  },
+  {
+    "gemi_adi": "Bahcekapi",
+    "yapim_yili": "1989",
+    "yapim_yeri": "Camialti Tersanesi / Istanbul",
+    "hiz": "17 mil",
+    "yolcu_kapasitesi": "2100 / 1470",
+    "gorsel": "https://raw.githubusercontent.com/berkanyildizz/database/main/MSEminKul.png"
+  },
+  {
+    "gemi_adi": "FahriSKoruturk",
+    "yapim_yili": "1989",
+    "yapim_yeri": "Halic Tersanesi / Istanbul",
+    "hiz": "17 mil",
+    "yolcu_kapasitesi": "2100 / 1470",
+    "gorsel": "https://raw.githubusercontent.com/berkanyildizz/database/main/MSFahriSKoruturk.png"
+  },
+  {
+    "gemi_adi": "Sedefadasi",
+    "yapim_yili": "1973",
+    "yapim_yeri": "Camialti Tersanesi / Istanbul",
+    "hiz": "14 mil",
+    "yolcu_kapasitesi": "2100 / 1684",
+    "gorsel": "https://raw.githubusercontent.com/berkanyildizz/database/main/MSProfDrAykutBarka.png"
+  }
+]
